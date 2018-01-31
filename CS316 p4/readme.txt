@@ -1,0 +1,1 @@
+Having all input tested , is able to get some of the input correct , the problem is that I am not able to make the right goto label. May need a little more debugging , which  I don’t think I have enough time to do it because I have to prepare for the final.

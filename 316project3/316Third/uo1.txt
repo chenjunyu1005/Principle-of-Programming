@@ -1,0 +1,64 @@
+push 1
+pop #0
+push 2
+pop #1
+push 3
+pop #2
+push 4
+pop #3
+push 5
+pop #4
+push 6.0
+pop #5
+push 7.0
+pop #6
+push 8.0
+pop #7
+push 9.0
+pop #8
+push 10
+pop #9
+push 11.0
+pop #10
+push 12
+pop #11
+push #0
+push #2
+add
+push #1
+push #6
+neg
+sub
+lt
+push #2
+push #11
+mul
+push #3
+push #9
+div
+push #1
+mul
+le
+push #4
+push 0.22
+add
+push #5
+neg
+gt
+and
+or
+push #6
+push #7
+ge
+push #8
+push #9
+eq
+and
+or
+push #10
+push #11
+neq
+or
+pop #12
+push #12
+print

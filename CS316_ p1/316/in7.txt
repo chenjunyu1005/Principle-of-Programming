@@ -1,0 +1,13 @@
+{
+while ( a1 == "a2" || x1 < x3 && x4 > x5 )
+   if ( cs316 != CS315 || abc <= def && kb65tr >= kjh876tr5d )
+   {
+        cs316 = CS315:
+        abc = delse * jhnfg:
+   }
+   else
+   {
+        if1 = mvnh876h;
+        elseT = 8756453@a1;
+   }
+}

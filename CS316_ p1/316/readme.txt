@@ -1,0 +1,2 @@
+I had all the input files tested and got the right output for all of them.
+To compile and run  this program simply import the java source file into eclipse , and set the run configuration to the input.txt and output.txt you want to test. Because this program is in pakage form , so if you want to compile it in terminal, simply remove the pakage heading in the code, then you will be able to compile and run the program in terminal with corresponding input and output file. 

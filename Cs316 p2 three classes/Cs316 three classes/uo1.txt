@@ -1,0 +1,14 @@
+0<statement>
+ 1<block>
+  2<s list>   3 if
+   3<statement>
+    4<assignment>
+ if
+( : Syntax Error, unexpected symbol where = expected
+   3 b1
+   3<statement>
+    4<assignment>
+ b1
+|| : Syntax Error, unexpected symbol where = expected
+! : Syntax Error, unexpected symbol where arith op or ) expected
+! : Syntax Error, unexpected symbol
